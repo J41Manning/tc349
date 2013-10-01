@@ -1,0 +1,26 @@
+body{
+	background: #fff;
+	margin: 0, auto;
+}
+
+h1 {
+	font-family: "Helvetica", sans-serif;
+	padding: 12px 10px;
+	font-size: 50px;
+	font-style: oblique;
+	margin-left: 50px;
+}
+
+img {
+	border: 8px solid #530053;
+	margin-left: 60px;
+}
+
+.divider {
+	width: 800px;
+	margin: 0, auto;
+	background: #916C47;
+}
+h3{
+	padding-bottom: 15px;
+}
