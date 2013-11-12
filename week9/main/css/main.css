@@ -115,7 +115,7 @@ h1, h2, p, ul{
 ul {
     list-style-type: none;
     padding: 0;
-
+}
 h1 {
     padding-top: 350px;
     color: #fff;
@@ -132,7 +132,7 @@ h2 {
     height: 250px;
     transition: background-image 1s;
 }
-s
+
 nav {
     float: left;
     width: 250px;
