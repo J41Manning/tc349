@@ -1,0 +1,38 @@
+Quiz:
+True or False. A Michigan LLC can have one or multiple member s/partners.
+	True.
+
+True or False. Once you have a business name, the next step is to open a bank account.
+	False.
+
+True or False. You only have to file a Michigan LLC Annual Report if your company earned money during the fiscal year.
+	False.
+
+Name one thing general liability insurance might cover.
+Someone slipping on ice in front of a store front, in other words a personal injury on your property.
+
+True or False. The City of Lansing levies an income tax.
+False
+
+Calculate your hourly billing rate for a web design business if you aim to pay yourself $45,000/year with a profit margin of 25%.
+Labor:45000*1.35/1152=$52.7/hour
+Overhead: 12000/1152= $10.4/hour
+Cost: $63/hour
+Profit: $15.8/hour
+Final: $79/hour
+
+
+True or False. Work for hire means that you get to remain the copyright holder after you've delivered your work to the client.
+False.
+
+Find one local networking event in Lansing and one web design conference (globally) that's happening in 2014.
+2014 Michigan ACE Network 2014 Annual Conference on June 2-3, 2014
+How Design on May 12-16, 2014 in Boston
+
+True or False. You can use your personal checking account for business as long as you are not a corporation.
+False
+
+Name three ways you could become a thought leader in your industry.
+Starting a blog
+Speak at a conference
+Be a guest blogger
