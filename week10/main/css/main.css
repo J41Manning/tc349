@@ -290,7 +290,7 @@ nav a:hover {
 	}
 }
 
-/*change this later*/
+
 @media (max-width: 480px) {
 	nav{
 		float: none;
@@ -299,6 +299,16 @@ nav a:hover {
 	article {
 		margin: 60px;
 	}
+	header {
+    background: url(../img/innerself_small.jpg);
+    height: 282px;
+    padding: 30px;
+	}
+	
+	h1 {
+    padding-top: 200px;
+    color: #fff;
+}
 }
 
 
